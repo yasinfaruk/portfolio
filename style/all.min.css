@@ -6756,6 +6756,8 @@ section .centered {
   position: absolute;
   z-index: 3;
   /*background: url(../images/overlay.png);*/
+  background-color: #000000;
+  opacity: 0.6;
 }
 
 .slides-container {
