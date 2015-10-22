@@ -7760,3 +7760,15 @@ input,textarea {
     right: auto;
   }
 }
+
+/*------------------- my-update --------------------*/
+
+.my-style p{
+  font-family: one sans, sans-serif, Arial;
+  font-style: 18px;
+  font-weight: 300;
+  line-height: 25px;
+  color: #000;
+  letter-spacing: 1px;
+
+}
